@@ -1,4 +1,6 @@
-Usage: download_ig.py --h HASHTAG_WITHOUT_#SYMBOL --l MAX_PHOTOS_TO_DOWNLOAD --i CONTENT_FILENAME
+# IGStyleTransfer
+
+Usage: python download_ig.py --h HASHTAG_WITHOUT_#SYMBOL --l MAX_PHOTOS_TO_DOWNLOAD --i CONTENT_FILENAME
 
 To-Do:
 - Create style image from multiple hashtags
